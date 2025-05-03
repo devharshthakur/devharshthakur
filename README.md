@@ -33,34 +33,6 @@ For a comprehensive overview of my technical skills and project details, please 
 
 ---
 
-
-## 🚀 Featured Projects
-
-Here are a couple of my noteworthy projects, particularly focusing on tooling:
-
-### [ht-create-tsapp](https://github.com/devharshthakur/ht-create-tsapp)
-
-A command-line tool to quickly set up TypeScript projects with pre-configured best practices.
-
-*   🚀 Supports multiple project folder options (`lib`, `util`).
-*   ⚙️ Comes with pre-customized configurations.
-*   ✅ Includes build & development scripts setup.
-*   🛡️ Ensures type safety from the ground up.
-
-*Tech Stack:* `TypeScript`, `Node.js`, `inquirer`
-
-### [trycatch-lib](https://github.com/devharshthakur/trycatch-lib)
-
-A library that simplifies error handling by transforming the standard try-catch format into a more readable tuple-based system.
-
-*   ✨ Changes the try-catch format to a tuple-based system for cleaner code.
-*   🧠 Simplifies multiple try-catch statements, enhancing readability and allowing developers to focus on business logic.
-
-*Tech Stack:* `TypeScript`
-
-[See more projects on my GitHub profile](https://github.com/devharshthakur?tab=repositories)
-
----
 ## 📈 GitHub Stats
 
 ![devharshthakur's Stats](https://github-readme-stats.vercel.app/api?username=devharshthakur&theme=bear&show_icons=true&hide_border=false&count_private=true)
