@@ -11,7 +11,7 @@
 
 ## 💻 About Me
 
-I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at **Vidyalankar Institute of Technology** [VIT](https://vit.edu.in/). I specialize in the **JavaScript/TypeScript** ecosystem, with a strong interest in building **developer tools** and improving software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
+I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at [**Vidyalankar Institute of Technology**](https://vit.edu.in/). I specialize in the **JavaScript/TypeScript** ecosystem, with a strong interest in building **developer tools** and improving software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
 
 - 🔭 I'm currently working on expanding my portfolio with diverse React and Node.js projects.
 - 🌱 I'm actively learning about microservices architecture and containerization.
