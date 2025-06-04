@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Harsh Thakur
 
-## Full Stack Developer | TypeScript Enthusiast | Student
+## Full Stack Developer | TypeScript & Rust Enthusiast | Student
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devharshthakur&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harsh-thakur-bb6b18231/)
@@ -11,12 +11,12 @@
 
 ## 💻 About Me
 
-I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at [**Vidyalankar Institute of Technology**](https://vit.edu.in/). I specialize in the **JavaScript/TypeScript** ecosystem, with a strong interest in building **developer tools** and improving software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
+I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at [**Vidyalankar Institute of Technology**](https://vit.edu.in/). I specialize in the **JavaScript/TypeScript** ecosystem, with a strong(new) interest in building **full stack applications** & **developer tools** and improving software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
 
-- 🔭 I'm currently working on expanding my portfolio with diverse React and Node.js projects.
-- 🌱 I'm actively learning about microservices architecture and containerization.
+- 🔭 I'm currently working on expanding my portfolio with diverse React and Node.js and possibly Rust projects.
+- 🌱 I'm actively learning about new things in web-dev world and learning rust on side (at the moment).
 - 👯 I'm looking to collaborate on exciting open-source TypeScript projects.
-- 🎓 Expected graduation: **June 2025**
+- 👨🏽‍🎓 Expected graduation: 📅**June 2025**
 
 ---
 
@@ -26,6 +26,7 @@ Building robust and type-safe full stack applications primarily within the JavaS
 
 *   ⚛️ **React**, 🐻 **Zustand** (Frontend)
 *   🟢 **Node.js**, 🛡️ **NestJS**, 🌐 **Express** (Backend)
+*   🦀 **Rust**, 🚀 **Tokio** (Systems Programming)
 *   🌿 **MongoDB**, 🐘 **PostgreSQL** (Databases)
 *   ✅ **TypeScript**, 🔧 **Git**, 🐳 **Docker**, ⚡ **Vitest** (Tools)
 
@@ -47,10 +48,6 @@ For a comprehensive overview of my technical skills and project details, please 
 *   🐦 Twitter: [@Harshthakur2002](https://x.com/Harshthakur2002)
 *   🌐 Portfolio: [devharshthakur.in](https://www.devharshthakur.in/)
 
----
-
 ## 🤝 Open to Opportunities
 
 I am currently seeking internship/job opportunities in full stack development where I can contribute my skills, learn from experienced professionals, and continue to grow. Feel free to reach out if you think I would be a good fit for your team!
-
----
