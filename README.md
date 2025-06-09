@@ -11,10 +11,10 @@
 
 ## 💻 About Me
 
-I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at [**Vidyalankar Institute of Technology**](https://vit.edu.in/). I specialize in the **JavaScript/TypeScript** ecosystem, with a strong(new) interest in building **full stack applications** & **developer tools** and improving software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
+I'm a passionate full stack developer currently pursuing my **Bachelor's degree in Computer Engineering** at [**Vidyalankar Institute of Technology**](https://vit.edu.in/). I specialize in the **`JavaScript/TypeScript`** ecosystem, building **full stack applications** with a new intrest in building **`developer tools`** in ts/js and **`Rust`** to improve software development workflows. My goal is to create clean, efficient, and **type-safe** applications that solve real-world problems.
 
 - 🔭 I'm currently working on expanding my portfolio with diverse React and Node.js and possibly Rust projects.
-- 🌱 I'm actively learning about new things in web-dev world and learning rust on side (at the moment).
+- 🌱 I'm actively learning about new things in web-dev world and learning and building projects in rust on side (at the moment).
 - 👯 I'm looking to collaborate on exciting open-source TypeScript projects.
 - 👨🏽‍🎓 Expected graduation: 📅**June 2025**
 
