@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/Harshthakur2002)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devharshthakur.in-blueviolet?style=flat&logo=behance&logoColor=white)](https://www.devharshthakur.in/)
 
----
+
 
 ## 💻 About Me
 
@@ -18,7 +18,7 @@ I'm a passionate full stack developer currently pursuing my **Bachelor's degree 
 - 👯 I'm looking to collaborate on exciting open-source TypeScript projects.
 - 👨🏽‍🎓 Expected graduation: 📅**June 2025**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -32,14 +32,14 @@ Building robust and type-safe full stack applications primarily within the JavaS
 
 For a comprehensive overview of my technical skills and project details, please visit my [**Portfolio Website**](https://www.devharshthakur.in/).
 
----
+
 
 ## 📈 GitHub Stats
 
 ![devharshthakur's Stats](https://github-readme-stats.vercel.app/api?username=devharshthakur&theme=bear&show_icons=true&hide_border=false&count_private=true)
 
 #### For a comprehensive view of my technical skills, frequently used languages, and project details, please visit my [**Portfolio Website**](https://www.devharshthakur.in/).
----
+
 
 ## 📫 Get in Touch
 
