@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a Full Stack Developer. I did my  Bachelor's degree in Computer Engineering at [Vidyalankar Institute of Technology](https://vit.edu.in/). I specialize in the JavaScript/TypeScript . I work mainly in web ecosystem. 
+I am a Full Stack Developer. I specialize in the JavaScript/TypeScript . I work mainly in web ecosystem. 
 
 Recently, my interests have expanded into systems programming and developer tools. I am actively learning Rust to improve software development workflows and build high-performance applications.
 
